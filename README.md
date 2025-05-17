@@ -7,3 +7,5 @@ Requirements:
 3. Numpy
 
 How to run the code: 
+1. Install all the dependencies
+2. 
