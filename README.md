@@ -3,3 +3,4 @@ Tracks the pushups we do and tells if the posture is correct by calculating the 
 
 Requirements: 
 1. OpenCV
+2. Mediapipe
