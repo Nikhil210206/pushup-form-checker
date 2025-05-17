@@ -9,3 +9,4 @@ Requirements:
 How to run the code: 
 1. Install all the dependencies
 2. Go to the terminal and run python3 main.py
+3. Allow webcam access
