@@ -5,3 +5,5 @@ Requirements:
 1. OpenCV
 2. Mediapipe
 3. Numpy
+
+How to run the code: 
